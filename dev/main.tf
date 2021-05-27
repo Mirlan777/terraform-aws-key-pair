@@ -19,7 +19,6 @@ resource "aws_instance" "web" {
 }
 
 
-Message mar_devops_2021
 
 
 
